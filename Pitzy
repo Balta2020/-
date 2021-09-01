@@ -1,0 +1,80 @@
+#EXTM3U
+#EXTINF:0 tvg-id="esp2-hd" group-title="Сербия",Eurosport 2 HD
+http://94.250.61.10:8000/play/eurosport2
+
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Португалия",Eleven Sports 1 HD
+http://94.155.204.102:4000/play/a061
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Португалия",Eleven Sports 2 HD
+http://94.155.204.102:4000/play/a04d
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Португалия",Eleven Sports 2 HD
+http://94.155.204.102:4000/play/a0cw
+
+#EXTINF:0 tvg-id="esp" group-title="Россия",Eurosport 1
+http://188.113.190.12/82/video.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Россия",Eurosport 2
+http://188.113.190.12/83/video.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Россия",Setanta Sports 2
+https://5-61-37-241.liveSports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Россия",Setanta Sports 2 HD
+https://95-213-224-187.liveSports24.online/setantaplusru.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="Россия",Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:0 tvg-id="sportivny" group-title="Россия",Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:0 tvg-id="boec" group-title="Россия",Боец
+http://188.113.190.12/126/video.m3u8
+#EXTINF:0 tvg-id="fast-n-funbox-hd" group-title="Россия",FAST&FUN BOX HD
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:0 tvg-id="motorsport" group-title="Россия",Мотоспорт ТВ
+http://188.113.190.12/220/video.m3u8
+#EXTINF:0 tvg-id="Fightbox.cz" group-title="Россия",FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Россия",UFC HD
+http://118.47.168.157:8080/play/a0211/index.m3u8
+#EXTINF:0 tvg-id="m1-global" group-title="Россия",M-1 GLOBAL HD
+http://188.113.190.12/305/video.m3u8
+
+#EXTINF:0 tvg-id="futbol-ukr" group-title="Украина",Футбол 1 HD
+https://95-213-224-187.liveSports24.online/uafootballua1.m3u8
+#EXTINF:0 tvg-id="futbol-plus" group-title="Украина",Футбол 2 HD
+https://95-213-224-187.liveSports24.online/fooootball2.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Украина",Футбол 3
+http://iptv.prosto.tv:7000/ch105/video.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Украина",Футбол 3 HD
+https://95-213-224-187.liveSports24.online/football3ua.m3u8
+#EXTINF:0 tvg-id="setanta-sport-ua" group-title="Украина",Setanta Sports Ukraine HD
+https://95-213-224-183.liveSports24.online/setantaukraine.m3u8
+
+#EXTINF:0 tvg-id="belarus5" group-title="СНГ",Беларусь 5 HD
+https://95-213-224-187.liveSports24.online/belarusss5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="СНГ",Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="СНГ",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:0 tvg-id="CanalplusSports.pl" group-title="Разное",Canal+ Sport HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="NBA.blt" group-title="Разное",NBA TV
+http://188.113.190.12/168/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Разное",Sport TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Разное",Sport TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Разное",Sport TV 3 HD
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Разное",Sky Sport 1
+http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Разное",Fox Sports 1
+http://45.179.140.242:8000/play/a0gx
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Разное",Fox Sports 2
+http://45.179.140.242:8000/play/a0gd
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Разное",Fox Sports 3
+http://45.179.140.242:8000/play/a0ge
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Разное",ESPN
+http://45.179.140.242:8000/play/a0g3
+#EXTINF:0 tvg-id="ext" group-title="Разное",ESPN 2 Latin
+http://45.179.140.242:8000/play/a0g2
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Разное",ESPN 3
+http://45.179.140.242:8000/play/a0hk
+#EXTINF:0 tvg-id="ext" group-title="Разное",ESPN CO
+http://45.179.140.242:8000/play/a0hq
